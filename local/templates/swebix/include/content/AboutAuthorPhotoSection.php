@@ -1,0 +1,1 @@
+<img width="683" alt="DSC04557.jpg" src="/upload/medialibrary/165/sgq9knjoaz40s2nsg6zukpydkse01vvi.jpg" height="1024" title="DSC04557.jpg">

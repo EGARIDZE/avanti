@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Tenor";
+  src: url(/local/templates/swebix/fonts/Tenor/TenorSans-Regular.eot);
+  src: local("Tenor"), url(/local/templates/swebix/fonts/Tenor/TenorSans-Regular.eot?#iefix) format("embedded-opentype"), url(/local/templates/swebix/fonts/Tenor/TenorSans-Regular.woff2) format("woff2"), url(/local/templates/swebix/fonts/Tenor/TenorSans-Regular.woff) format("woff"), url(/local/templates/swebix/fonts/Tenor/TenorSans-Regular.ttf) format("truetype");
+  font-display: swap;
+}
+/*
+@font-face {
+  font-family: "Marmelad";
+  src: url(/local/templates/swebix/fonts/Marmelad/Marmelad-Regular.woff2) format("woff2");
+  /*src: url(/local/templates/swebix/fonts/Marmelad/Marmelad-Regular.eot);
+  /*src: local("Marmelad"), url(/local/templates/swebix/fonts/Marmelad/Marmelad-Regular.eot?#iefix) format("embedded-opentype"), url(/local/templates/swebix/fonts/Marmelad/Marmelad-Regular.woff2) format("woff2"), url(/local/templates/swebix/fonts/Marmelad/Marmelad-Regular.woff) format("woff"), url(/local/templates/swebix/fonts/mullerMarmelad-Regular.ttf) format("truetype");
+  font-style: normal;
+  font-display: swap
+}
+*/
+/*
+@font-face {
+  font-family: "SuisseIntl";
+  src: url(/local/templates/swebix/fonts/SuisseIntl/SuisseIntl-Regular.woff2) format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: url(/local/templates/swebix/fonts/SuisseIntl/SuisseIntl-Regular.woff2) format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: url(/local/templates/swebix/fonts/SuisseIntl/SuisseIntl-Medium.woff2) format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: url(/local/templates/swebix/fonts/SuisseIntl/SuisseIntl-Bold.woff2) format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap
+}
+*/
